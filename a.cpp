@@ -29,5 +29,6 @@ int main()
     rvereseArray(arr, 3);
     cout << "Reversed array is" << endl;
     printArray(arr, 4);
+    cout << "Finished";
     return 0;
 }
